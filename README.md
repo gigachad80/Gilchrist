@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome">
   </a>
 </p>
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a55a05ba-b572-4ae2-91de-6c78b20bf0e5" alt="Description" width="300" height="250">
+</p>
 <p align="center">
   <strong>Complete Unix-like command suite for Windows - wc, find, and rm utilities in one powerful executable</strong>
 </p>

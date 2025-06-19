@@ -43,7 +43,7 @@ Whether you're counting lines in log files, searching through directory hierarch
 
 ```
 git clone https://github.com/gigachad80/Gilchrist
-cd Wingrep
+
 ```
 2. Now build Go executable : 
 

@@ -178,8 +178,8 @@ gilchrist find . -name "*.txt"
 
 # Find directories case-insensitively
 gilchrist find C:\Users -iname "*temp*" -type d
-C:\Users\John\AppData\Local\Temp
-C:\Users\John\Documents\Templates
+C:\Users\Admin\AppData\Local\Temp
+C:\Users\Admin\Documents\Templates
 
 # Limit search depth
 gilchrist find . -maxdepth 2 -name "*.log"

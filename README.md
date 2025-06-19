@@ -7,9 +7,9 @@
   </a>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c7de617d-6ace-4752-b0d7-9cb4602cf22c" alt="Description" width="150px">
+<img src="https://github.com/user-attachments/assets/c7de617d-6ace-4752-b0d7-9cb4602cf22c" alt="Description" width="180px">
 </p>
----
+
 
 ### 📌 Overview
 

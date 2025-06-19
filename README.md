@@ -7,12 +7,8 @@
   </a>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a55a05ba-b572-4ae2-91de-6c78b20bf0e5" alt="Description" width="120px">
-</p>
-<p align="center">
-  <strong>Complete Unix-like command suite for Windows - wc, find, and rm utilities in one powerful executable</strong>
-</p>
-
+<img src="https://github.com/user-attachments/assets/c7de617d-6ace-4752-b0d7-9cb4602cf22c" alt="Description" width="150px">
+</p>![Gemini_Generated_Image_3ch57f3ch57f3ch5_cleanup-removebg-preview]()
 ---
 
 ### 📌 Overview

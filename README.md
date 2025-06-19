@@ -1,6 +1,6 @@
 # 🚀 Project Name : gilchrist
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-purple.svg" alt="Maintenance">
   <a href="https://github.com/user/gilchrist/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome">

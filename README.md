@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a55a05ba-b572-4ae2-91de-6c78b20bf0e5" alt="Description" width="300" height="250">
+<img src="https://github.com/user-attachments/assets/a55a05ba-b572-4ae2-91de-6c78b20bf0e5" alt="Description" width="120px">
 </p>
 <p align="center">
   <strong>Complete Unix-like command suite for Windows - wc, find, and rm utilities in one powerful executable</strong>
